@@ -1,5 +1,12 @@
 webpwn3r
 ========
+Webpwn3r adalah tool scanning yang kuat, ditulis dengan Python, untuk mendeteksi remote command execution vulnerability, cross site scripting attacks, dan kelemahan database dalam aplikasi web
+
+Fifur Tool
+
+
+Versi tool saat ini memiliki kemampuan untuk scanning satu url atau daftar url yang disediakan dalam file teks. tool ini mampu memberikan informasi tentang kerentanan remote code execution di url atau daftar url yang diinginkan. Webpwn3r dapat mendeteksi teknologi WAF (Web Application Firewall) seperti Web Knight, juga melakukan scanning kerentanan XSS pada aplikasi web target. Fitur-fitur lain termasuk sidik jari dari teknologi backend dari aplikasi web target dan scanning untuk kerentanan injeksi SQL pada aplikasi web target. 
+
 
 WebPwn3r - Web Applications Security Scanner.
 
